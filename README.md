@@ -1,2 +1,2 @@
 # Flappy-Bird
-Just a Windows C# Flappy Bird game
+Just press space and avoid the lightsabers. There's a lag counter because it lags.
